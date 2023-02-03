@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(36, 16, 55);
+    padding: 2rem 0rem;
+    text-align: center;
+    color: antiquewhite;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid antiquewhite;
+}
+#container{
+    /* text-align: center; */
+    /* padding: 2rem; */
+    color: rgb(237, 235, 232);
+}
+.inp{
+    margin-bottom: 1rem;
+    font-size: large;
+    font-weight: 800;
+}
